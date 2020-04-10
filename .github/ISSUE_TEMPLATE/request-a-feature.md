@@ -1,7 +1,7 @@
 ---
 name: Request a feature
 about: Give a reasonable feature to be added to a future update
-title: "[REQUEST]"
+title: ""
 labels: enhancement
 assignees: ''
 
