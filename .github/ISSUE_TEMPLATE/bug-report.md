@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report an issue with DopeConvos
-title: "[BUG]"
+title: ""
 labels: bug
 assignees: ''
 
