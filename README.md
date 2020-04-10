@@ -17,6 +17,13 @@
 * Remove Bubble Fill.
 * Pin Conversations.
 
+## Issues and bug reports
+
+When creating a new bug report or feature request, please make sure that it has not already been submitted under the 'Issues' tab of this repository, this just helps with organization
+
+[Feature Request](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=enhancement&template=request-a-feature.md&title=)
+
+[Bug Report](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
 
 Follow Me
 
