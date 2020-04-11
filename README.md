@@ -12,18 +12,16 @@
 * Change Bubble Gradient colors.
 * Change Bubble Text Colors.
 * Remove Bubble Tail.
-* Change sender name color.
-* Change preview text color.
+* Change sender name color
+* Change preview text color
 * Remove Bubble Fill.
-* Pin Conversations.
+* Use background gradient
 
-## Issues and bug reports
+**To-Do:**
+* Add an option for the user to choose a background image.
+* Add an option to remove Avatar pictures (method already exists in stock ios Settings>Messages>Show Contact Photos).
+* Fix Large title transition so it doesn't say "Messages" before finally transitioning and changing to the user specified Custom Large Title.
 
-When creating a new bug report or feature request, please make sure that it has not already been submitted under the 'Issues' tab of this repository, this just helps with organization
-
-[Feature Request](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=enhancement&template=request-a-feature.md&title=)
-
-[Bug Report](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
 
 Follow Me
 
