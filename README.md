@@ -5,8 +5,11 @@
 
 **Dependencies which are required in order to install DopeConvos:**
 *Cephei - https://repo.chariz.com
+
 libimagepicker - https://repo.packix.com
+
 libsparkcolourpicker - https://sparkdev.me/repo*
+
 
 Q: I am installing it but nothing is showing up in settings
 A: Try adding https://rpetri.ch/repo and update PreferenceLoader
