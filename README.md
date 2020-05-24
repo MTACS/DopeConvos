@@ -1,36 +1,50 @@
 ![download](https://i.ibb.co/TTf6496/banner.png)
 
-# DopeConvos
 
-## Endless customization for SMS Application!!
-**Current Features:**
-* Change the Large title to anything you want.
-* Change the color of the Large Title.
-* Change overall TintColor.
-* Change Background Color.
-* Hide separators or change their color.
-* Change Bubble Gradient colors.
-* Change Bubble Text Colors.
-* Remove Bubble Tail.
-* Change sender name color
-* Change preview text color
-* Remove Bubble Fill.
-* Use background gradient
+# DopeConvos FAQ
 
-**To-Do:**
-* Add an option for the user to choose a background image.
-* Add an option to remove Avatar pictures (method already exists in stock ios Settings>Messages>Show Contact Photos).
-* Fix Large title transition so it doesn't say "Messages" before finally transitioning and changing to the user specified Custom Large Title.
+**Dependencies which are required in order to install DopeConvos:**
+*Cephei - https://repo.chariz.com
+libimagepicker - https://repo.packix.com
+libsparkcolourpicker - https://sparkdev.me/repo*
 
+Q: I am installing it but nothing is showing up in settings
+A: Try adding https://rpetri.ch/repo and update PreferenceLoader
 
-Follow Me
+Q: My unread indicators are not showing up
+A: This is intentional as DopeConvos uses its own images to display a more modern look to all indicator images, these can be activated from DopeConvos>Conversations you can change the color of them and the size as well
 
-* [**Twitter**](https://twitter.com/ethanwhited) - follow me for more up to date info, or ask me anything.
+Q: Pictures are not showing up when using a UI theme
+A: Activate Disable Mask On Images in DopeConvos>Bubbles
 
-* [**Reddit**](https://www.reddit.com/user/Nahtedetihw) - reach out if you have any questions.
+Q: My iMessage games are not allowing me to respond to them
+A: Activate Disable Mask On Images in DopeConvos>Bubbles
 
-* [**Email**](mailto:ethanwhited2208@gmail.com) - open to any questions or concerns.
+Q: I’m showing a box behind my message bubbles when using a UI theme
+A: Message Bubble UI themes require the gradient fill to be removed in order to remove the box underneath the bubbles, activate enableUITheming in DopeConvos>Bubbles and DopeConvos will use the Bottom Gradient Color to color the bubbles (obviously gradient colors will not work)
 
-* [**Donate**](https://paypal.me/nahtdetihw) - buy me a coffee if you like my work.
+Q: Why do some UI themes work with gradient fill but others don’t
+A: Some message bubbles UI themes use a transparent fill or only partially theme the bubble mask, while others use a full mask allowing for iOS to properly theme with no additional steps
 
-* [**Repo**](https://repo.twickd.com) - Repo containing DopeConvos
+Q: My Message Bubbles have a weird pixelated image displaying on them
+A: This is due to the UI theme and you need to enableUITheming in DopeConvos>Bubbles
+
+Q: Is there any way to make the blurred backgrounds stay dark?
+A: Yes, Choose Consistent Dark for the blur style
+
+Q: I’ve imported my Preset but it’s not working
+A: The developer of ColorizeChat was kind enough to share his Presets for use in DopeConvos, follow his tutorial for getting Presets working fine: [Presets Tutorial](https://www.reddit.com/r/iOSthemes/comments/fpbmmx/discussion_colorizechat_import_setups_please_read/?utm_source=share&utm_medium=web2x)
+
+### For any other questions or concerns please follow me on Twitter: [ETHN](https://twitter.com/ethanwhited)
+
+Shoot me an email: [Email](mailto:[ethanwhited2208@gmail.com)
+
+Follow MTAC on Twitter: [MTAC](https://twitter.com/MTAC8)
+
+[Feature Request](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=enhancement&template=request-a-feature.md&title=)
+
+[Bug Report](https://github.com/MTACS/DopeConvos/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
+
+[DopeConvos](https://repo.twickd.com/package/com.twickd.ethan-whited.dopeconvos)
+
+[https://repo.twickd.com](https://repo.twickd.com)
