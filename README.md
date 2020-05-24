@@ -5,7 +5,7 @@
 
 **Dependencies which are required in order to install DopeConvos:**
 
-*Cephei - https://repo.chariz.com
+Cephei - https://repo.chariz.com
 
 libimagepicker - https://repo.packix.com
 
