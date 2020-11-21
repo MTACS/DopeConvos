@@ -1,4 +1,4 @@
-![download](https://i.ibb.co/TTf6496/banner.png)
+![download](https://i.ibb.co/DWw7187/Twickd-DCBanner.png)
 
 
 # DopeConvos FAQ
