@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. If your bug is related to selecting images, this is intentional and done to improve stability. Please refer to the Wiki for more information. Any repeating bugs related to this issue will be deleted.
 
 **To Reproduce**
 Steps to reproduce the behavior:
